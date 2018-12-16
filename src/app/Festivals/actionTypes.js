@@ -1,0 +1,13 @@
+export const GET_LIST = '[Festivals] Get list';
+export const GET_LIST_SUCCESS = '[Festivals] Get list success';
+export const GET_ITEM = '[Festivals] Get item';
+export const GET_ITEM_SUCCESS = '[Festivals] Get item success';
+export const GET_ITEM_ERROR = '[Festivals] Get item error';
+export const CREATE_ITEM = '[Festivals] Create item';
+export const CREATE_ITEM_SUCCESS = '[Festivals] Create item success';
+export const DELETE_ITEM = '[Festivals] Delete item';
+export const DELETE_ITEM_SUCCESS = '[Festivals] Delete item success';
+export const ADD_ARTIST = '[Festivals] Add artist';
+export const ADD_ARTIST_SUCCESS = '[Festivals] Add artist success';
+export const REMOVE_ARTIST = '[Festivals] Remove artist';
+export const REMOVE_ARTIST_SUCCESS = '[Festivals] Remove artist success';
